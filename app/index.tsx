@@ -12,7 +12,7 @@ const Index = () => {
       <Link href="/about" asChild>
         <Button title="Go to About" />
       </Link>
-      <Link href="/products/index" asChild>
+      <Link href="/products" asChild>
         <Button title="Go to Products" />
         </Link>
     </View>
